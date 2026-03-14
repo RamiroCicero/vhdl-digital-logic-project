@@ -9,3 +9,4 @@ University project developed for the Digital Logic Design course.
 ## Technologies
 - VHDL
 - Xilinx Vivado
+## Grade ---> 30/30
